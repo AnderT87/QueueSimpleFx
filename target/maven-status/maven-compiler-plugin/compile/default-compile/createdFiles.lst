@@ -1,0 +1,6 @@
+ec\edu\espoch\queuesimplefx\controller\QueueController.class
+ec\edu\espoch\queuesimplefx\modelo\Node.class
+module-info.class
+ec\edu\espoch\queuesimplefx\modelo\QueueSimple.class
+ec\edu\espoch\queuesimplefx\App.class
+ec\edu\espoch\queuesimplefx\vistas\QueueCanvas.class
